@@ -15,23 +15,14 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend**
-- HTML, CSS, JavaScript  
-- Bootstrap  
+**Frontend**                                                              **Database**
+- HTML, CSS, JavaScript                                                    - MongoDB  
+- Bootstrap                                                                - Mongoose  
 
-**Backend**
-- Node.js  
-- Express.js  
-- Passport.js  
-
-**Database**
-- MongoDB  
-- Mongoose  
-
-**Tools**
-- Git & GitHub  
-- Postman  
-- VS Code  
+**Backend**                                                               **Tools**
+- Node.js                                                                  - Git & GitHub  
+- Express.js                                                               - Postman  
+- Passport.js                                                              - VS Code  
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/vaishalivala17
