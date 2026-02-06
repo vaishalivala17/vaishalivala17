@@ -6,9 +6,9 @@
 ---
 
 ### 👩‍💻 About Me
-- 💻 Passionate about backend development
+- 💻 Passionate about Full stack development 
 - 🌱 Currently learning **Node.js, Express & MongoDB**
-- 🧠 Strong interest in authentication & database design
+- 🧠 Strong interest in backend |authentication & database design
 - 📦 Building real-world projects to improve problem-solving
 - 🕒 Late starter, consistent learner
 
@@ -33,42 +33,9 @@
 - Postman  
 - VS Code  
 
----
-
-### 📂 Projects of Frontend and Backend
-
-#### TODO App
-– features
-- Add / delete / edit tasks
-- Show all
-- LocalStorage
-
-#### 📘 LMS With Node.js
-- Role-based authentication (Admin / Teacher / Student)
-- Token-based login using jsonwebtoken
-- MongoDB CRUD operations
-- MVC architecture
-
-#### 🎟️ Movie Ticket Booking App
-- User authentication
-- Movie listing & booking flow
-- Email confirmation using Nodemailer
-- Backend focused project
-
----
-
-### 📊 GitHub Stats
-![Vaishali's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishalivala17&show_icons=true&theme=tokyonight)
-
----
-
-### 📈 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=vaishalivala17&theme=tokyonight)
-
----
-
 ### 📫 Connect With Me
 - GitHub: https://github.com/vaishalivala17
+- LinkedIn: https://www.linkedin.com/in/vaishali-vala-9714a4342/
 
 ---
 
