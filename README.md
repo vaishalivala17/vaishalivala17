@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vaishali Vala
 
-### Aspiring Full Stack Developer | React| Node.js Enthusiast 🚀  
+### Aspiring Full Stack Developer | React | Node.js Enthusiast 🚀  
 📍 Surat,Gujarat
 
 ---
