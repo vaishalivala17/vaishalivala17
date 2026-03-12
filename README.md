@@ -1,13 +1,14 @@
 # Hi 👋, I'm Vaishali Vala
 
-### Aspiring Full Stack Developer | Node.js Enthusiast 🚀  
+### Aspiring Full Stack Developer | React| Node.js Enthusiast 🚀  
 📍 Surat,Gujarat
 
 ---
 
 ### 👩‍💻 About Me
-- 💻 Passionate about Full stack development 
-- 🌱 Currently learning **Node.js, Express & MongoDB**
+- 💻 Passionate about Full stack development
+- 🌱 Currently learne React.js
+- 🌱 Currently complete learning **Node.js, Express & MongoDB**
 - 🧠 Strong interest in backend |authentication & database design
 - 📦 Building real-world projects to improve problem-solving
 - 🕒 Late starter, consistent learner
