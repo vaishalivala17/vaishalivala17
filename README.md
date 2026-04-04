@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vaishali Vala
 
-### Aspiring Full Stack Developer | React | Node.js Enthusiast 🚀  
+### Aspiring Full Stack Developer-MERN Stack Developer | React | Node.js Enthusiast 🚀  
 📍 Surat,Gujarat
 
 ---
@@ -20,6 +20,7 @@
 - HTML, CSS, JavaScript                                                 
 - Bootstrap                                                                                                                
 - Node.js                                                               
+- React.js                                                               
 - Express.js                                                             
 - Passport.js
 - MongoDB, Mongoose
