@@ -5,6 +5,12 @@
 
 ---
 
+# Vaishali Vala — Portfolio
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00e5ff?style=for-the-badge&logo=netlify&logoColor=white)](https://capable-biscuit-eda369.netlify.app/)
+
+---
+
 ### 👩‍💻 About Me
 - 💻 Passionate about Full stack development
 - 🌱 Currently learne React.js
@@ -12,11 +18,6 @@
 - 🧠 Strong interest in backend |authentication & database design
 - 📦 Building real-world projects to improve problem-solving
 - 🕒 Late starter, consistent learner
-
----
-# Vaishali Vala — Portfolio
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00e5ff?style=for-the-badge&logo=netlify&logoColor=white)](https://capable-biscuit-eda369.netlify.app/)
 
 ---
 
