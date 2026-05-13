@@ -1,18 +1,17 @@
-#<h2 align="center"> Hi 👋, I'm Vaishali Vala</h2>
+# Hi 👋, I'm Vaishali Vala
 
-###<h3 align="center">Aspiring Full Stack Developer-MERN Stack Developer | React | Node.js Enthusiast 🚀  
+### Aspiring Full Stack Developer-MERN Stack Developer | React | Node.js Enthusiast 🚀  
 📍 Surat,Gujarat
-</h3>
+
 ---
 
 # Vaishali Vala — Portfolio
 
-<h3 align="center">
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://capable-biscuit-eda369.netlify.app/)
-</h3>
+
 ---
-<h3 align="center">
-### 👩‍💻 About Me </h3>
+
+### 👩‍💻 About Me 
 - 💻 Passionate about Full stack development
 - 🌱 Currently learne React.js
 - 🌱 Currently complete learning **Node.js, Express & MongoDB**
