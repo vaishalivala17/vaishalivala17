@@ -44,7 +44,7 @@
 
  <h2 align="center"> 💰 You can help me by Donating</h2>
  
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-e63946?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/vaishali_vala)
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-e63946?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vaishali_vala)
 
 
 ⭐ *“Learning in progress. Code in motion.”*
