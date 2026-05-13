@@ -7,7 +7,7 @@
 
 # Vaishali Vala — Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://capable-biscuit-eda369.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://vaishalivala-portfolio.netlify.app/)
 
 ---
 
