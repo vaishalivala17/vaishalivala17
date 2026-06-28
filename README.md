@@ -1,6 +1,6 @@
 # Hello, I'm Vaishali Vala
 
-### MERN Full Stack Developer
+### Full Stack Developer
 
 📍 Surat, Gujarat, India
 
@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me 
 - 💻 Passionate about Full stack development
-- 🌱 Currently improving my skills in Node.js, Express & MongoDB
+- 🌱 Improving my skills with industry level projects in Node.js, Express & MongoDB, Next.js, React.js with Frameworks like Bootstrap and Tailwind 
 - 🧠 Strong interest in Backend | Frontend | authentication & database design
 - 📦 Building real-world projects to improve problem-solving
 - 🕒 Late starter, consistent learner
