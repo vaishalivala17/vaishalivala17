@@ -12,9 +12,9 @@
 
 ### 👩‍💻 About Me 
 - 💻 Full Stack Developer..
-- 🌱 Improving my skills with industry level projects in Node.js, Express & MongoDB, Next.js, React.js with Frameworks like Bootstrap and Tailwind 
+- 🌱 Improving my skills with industry level projects in HTML, CSS, JavaScript, TypeScript, Node.js, Express, MongoDB Atlass, Next.js, React.js with Frameworks like Bootstrap and Tailwind.
 - 🧠 Strong interest in Backend | Frontend | authentication & database design
-- 📦 Building real-world projects to improve problem-solving
+- 📦 Building real-world projects to improve problem-solving skills
 - 🕒 Late starter, consistent learner
 
 
